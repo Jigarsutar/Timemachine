@@ -1,0 +1,13 @@
+body{
+text-align: center;
+-webkit-text-fill-color: rgb(11, 14, 14);
+    list-style-position: inside;
+
+background-color: rgb(25, 172, 91);
+}p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+  }
